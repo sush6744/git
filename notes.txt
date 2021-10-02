@@ -1,0 +1,30 @@
+*cls=sm-2,md-6,lg-3,xl-1
+ sm>=576px,md>=768px,lg>=998px,xl>=1200px,xs<=576px,inspect-sym
+*netscape company owns js. & introduced brendan Eich to develop language called MOCHA(he took 10 days to develop)
+ later mocha renamed as livescript, and also later renamed as javascript.
+*Ecma=european computer manufacturing association(standard scripting language).
+ standard scripting language is ECMAscript.
+*jsscript is also a scripting language and have standard of ECMAscript.
+ scripting= no compilation,no oops
+ programming= compilation,oops is there.
+ jsscript is both scripting and programming language.
+*console=1)print statements2)errors,warnings displayed3)write & run our code.
+*jscode will pass to jsengine within that we hv interpreter(line by line code execution)after it goes to
+ compiler(check syntax erors)then it will convert to machine level language(0s & 1s).
+*browsers=chrome,firefox,edge,safari
+ jsengine=v8,spider monkey,chakra,js code.(according to browsers).
+ v8 is used for node.js in backend(used js engine).
+*html is case Insensitive,where js is case sensitive.
+*variables(not start with num,not use special char except _/$,not use reserved keyword&spaces.
+ variable=var name="alia"/''/ ;(string)
+ var age=25;(number)
+ var ismarried=false;(boolean)
+*primitive=string,number,boolean,undefined(declared but not defined (dont assign any value for that variable called  undefined)),null(declared and assigned value as null),symbol,bigInt(2^53-1)
+ nonprimitive/reference=anything other than primitive are nonprimitive(object,arrays,functions,math,date)
+*vs code shortcuts=cnrl+b(open/close explorer)
+ cnrl+k+s(keyboard shortcuts)
+ shift+!(get doctype)
+ alt+down,alt+up
+ rgtckick-inspect/cntri+shift+i/f12
+*access code= use dot operater
+ ex= 1)person.firstName 2)person["firstName"]
